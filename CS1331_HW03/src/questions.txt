@@ -1,0 +1,5 @@
+In Java, are Strings immutable(yes/no)? | yes
+How many primitive types are there? | 8
+Java is ___________, meaning that all variables must have a declared type. | strongly typed
+What do you call a variable that cannot be changed? | constant
+When a .java file is compiled, a .class file is created. What kind of code is contained in that .class file? | bytecode
